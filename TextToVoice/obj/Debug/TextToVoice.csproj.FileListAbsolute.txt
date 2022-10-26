@@ -1,0 +1,16 @@
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csproj.ResolveComReference.cache
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.Form1.resources
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.Properties.Resources.resources
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\bin\Debug\TextToVoice.exe.config
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\bin\Debug\TextToVoice.exe
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\bin\Debug\TextToVoice.pdb
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csproj.CopyComplete
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.exe
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.pdb
+C:\Users\Carlos\source\repos\TextToVoice\TextToVoice\obj\Debug\TextToVoice.csproj.SuggestedBindingRedirects.cache

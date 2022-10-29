@@ -81,7 +81,7 @@ namespace TextToVoice
             this.btn_salir.Name = "btn_salir";
             this.btn_salir.Size = new System.Drawing.Size(132, 54);
             this.btn_salir.TabIndex = 4;
-            this.btn_salir.Text = "Salir";
+            this.btn_salir.Text = "Exit";
             this.btn_salir.UseVisualStyleBackColor = true;
             this.btn_salir.Click += new System.EventHandler(this.btn_salir_Click);
             // 
@@ -99,6 +99,7 @@ namespace TextToVoice
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.ClientSize = new System.Drawing.Size(807, 493);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btn_salir);
@@ -106,6 +107,7 @@ namespace TextToVoice
             this.Controls.Add(this.btn_pause);
             this.Controls.Add(this.btn_talk);
             this.Controls.Add(this.textrtb);
+            this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Name = "Form1";
             this.Text = "Text to Voice";
             this.Load += new System.EventHandler(this.Form1_Load);
